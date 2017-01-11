@@ -43,8 +43,11 @@ When in doubt, here are good guidelines to follow:
 
 * Keep it simple.
 
-* We are interested in seeing *your code* and *your solutions*. Don't use
-  existing code as part of your solution, otherwise we don't get to see that!
+* You can choose to use an external library if it makes sense.
+  But please remember that we are interested in seeing *your code*
+  and *your solutions*. Don't offload critical parts of your solution
+  to an external library or existing code, otherwise we don't get to
+  see that!
 
 * If you can't solve a part of the assignment, don't worry and send us what
   you have. A partial solution is still useful!
