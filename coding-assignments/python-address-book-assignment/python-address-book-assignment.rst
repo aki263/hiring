@@ -60,11 +60,11 @@ Facts:
 
 * A person has a first name and a last name.
 
-* A person has one or more street addresses.
+* A person may have one or more street addresses.
 
-* A person has one or more email addresses.
+* A person may have one or more email addresses.
 
-* A person has one or more phone numbers.
+* A person may have one or more phone numbers.
 
 * A person can be a member of one or more groups.
 
