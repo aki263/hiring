@@ -11,7 +11,7 @@ You are free to choose a log aggregator which suits best.
 2. The logging stack should be set up in such a way that any configuration changes in ElasticSearch/Kibana/log aggregator
 can be applied without any downtime.
 
-3. For demo, deploy `this Flask app <https://github.com/gingerpayments/example-logging-app>`_ which outputs several logs to files
+3. For demo, deploy `this app <https://github.com/gingerpayments/example-logging-app>`_ which outputs several logs to files
 (access logs & application logs). The log aggregator should collect these logs.
 
 What to deliver
