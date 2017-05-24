@@ -19,7 +19,7 @@ What to deliver
 
 * Please provide a link to a Github or Bitbucket repository (or similar) so we can easily obtain and run your code.
 
-* The repository should contain a README with instructions to set the logging stack in an AWS account.
+* The repository should contain a README with instructions to set up the logging stack in an AWS account.
   Assume a newly created AWS account.
 
 You are free to choose any automation tool, but bear in mind that we expect minimal manual steps in the instructions from
