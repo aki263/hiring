@@ -12,7 +12,7 @@ You are free to choose a log aggregator which suits best.
 can be applied without any downtime.
 
 3. For demo, deploy `this app <https://github.com/gingerpayments/example-logging-app>`_ which outputs several logs to files
-(access logs & error logs). The log aggregator should collect these logs.
+(access & error logs). The log aggregator should collect these logs.
 
 What to deliver
 ===============
